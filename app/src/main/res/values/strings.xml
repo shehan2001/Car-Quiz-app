@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="Car_options">
+        <item>Select car</item>
+        <item >bugatti</item>
+        <item >bmw</item>
+        <item >ferrari</item>
+        <item >ford</item>
+        <item >mercedes</item>
+        <item >audi</item>
+        <item >rolls royce</item>
+        <item >corvette</item>
+        <item >lamborghini</item>
+        <item >porsche</item>
+        <item >mclaren</item>
+        <item >mustang</item>
+        <item >jeep</item>
+        <item >jaguar</item>
+        <item >kia</item>
+        <item >koenigsegg</item>
+        <item >range rover</item>
+        <item >tesla</item>
+        <item >aston martin</item>
+        <item >volkswagen</item>
+        <item >toyota</item>
+
+
+
+
+    </string-array>
+
+</resources>
